@@ -1,0 +1,13 @@
+{
+  "name": "fiesel-ai",
+  "version": "1.0.0",
+  "description": "Fiesel AI — India's Most Powerful AI Creative Platform",
+  "main": "index.html",
+  "keywords": ["AI", "image-generator", "video-creator", "audio-generation", "india"],
+  "author": "Fiesel AI Team",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/keleda582-creator/subho"
+  }
+}
